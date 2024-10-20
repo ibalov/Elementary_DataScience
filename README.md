@@ -1,2 +1,2 @@
-# PythonPractices
-Ejercicios de Python en Jupyterlab para mejorar la lógica
+# Jupyterlab Practices
+Ejercicios Python y Jupyterlab 
