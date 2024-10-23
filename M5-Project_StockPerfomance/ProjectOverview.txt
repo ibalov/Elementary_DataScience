@@ -1,0 +1,8 @@
+En este proyecto, asumirás el rol de Data Scientist/Analyst en una nueva firma de inversión que ayuda a los clientes a invertir en acciones. 
+Tu trabajo será extraer datos financieros como precios históricos de acciones e informes de ingresos trimestrales de diversas fuentes utilizando bibliotecas de Python y técnicas de web scraping en acciones populares como Tesla, Amazon, AMD y GameStop.
+Luego de recolectar estos datos, los visualizarás en un dashboard para identificar patrones o tendencias clave.
+
+Visualización del Dashboard:
+El dashboard mostrará indicadores clave de rendimiento de una manera clara. Aprenderás a extraer y visualizar estos indicadores clave usando Plotly para la visualización de datos.
+En el curso "Python for Data Science, AI and Development", utilizaste Skills Network Labs para laboratorios prácticos. En este proyecto, usarás Skills Network Labs y Watson Studio.
+Watson Studio es un entorno colaborativo en IBM Cloud Pak for Data, donde los científicos de datos y expertos en IA desarrollan y despliegan proyectos.
