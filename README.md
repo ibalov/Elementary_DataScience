@@ -5,3 +5,4 @@ this repo includes teorical and practical execercises! :)
 1. Numpy & Pandas library
 2. Project practice 
 3. Data Analysis
+4. Visual Data 
