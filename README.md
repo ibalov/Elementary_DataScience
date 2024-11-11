@@ -7,3 +7,4 @@ this repo includes teorical and practical execercises! :)
 3. Data Analysis
 4. Visual Data
 5. Machine Learning
+6. Final Project
